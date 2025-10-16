@@ -37,11 +37,6 @@ Currently learning and experimenting with the latest frameworks and tools to enh
 
 ---
 
-## 🎮 Contributions (Tetris Style)
-![Tetris Contributions](https://activity-graph.herokuapp.com/graph?username=GuiRodriSil&theme=react-dark&hide_border=true&custom_title=My%20Tetris%20Commits)
-
-
----
 
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:rodriguesgui560@gmail.com)  

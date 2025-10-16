@@ -19,8 +19,8 @@ Currently learning and experimenting with the latest frameworks and tools to enh
 ### Back-End
 <div>
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Node.js-009000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Node.js-009000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </div>
 
 ### Data Science

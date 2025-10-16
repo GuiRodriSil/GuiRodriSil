@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Güi Silva
 I’m passionate about creating **innovative digital projects** and exploring new technologies.  
-Currently learning and experimenting with the latest frameworks and tools to enhance my development skills.  
+Currently learning and experimenting with the latest frameworks and tools to enhance my development skills. \\\
+
+-暇なときに日本語を勉強している
 
 ---
 

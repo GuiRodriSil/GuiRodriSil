@@ -31,17 +31,19 @@ Currently learning and experimenting with the latest frameworks and tools to enh
 ---
 
 ## 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiRodriSil&theme=github_light&show_icons=true)](https://github.com/GuiRodriSil)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiRodriSil&theme=github_dark&show_icons=true)](https://github.com/GuiRodriSil)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRodriSil&layout=compact&langs_count=8&theme=github_light)](https://github.com/GuiRodriSil)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRodriSil&layout=compact&langs_count=8&theme=github_dark)](https://github.com/GuiRodriSil)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuiRodriSil&theme=dark)
 
 ---
 
+## 🎮 Contributions (Tetris Style)
+![Tetris Contributions](https://activity-graph.herokuapp.com/graph?username=GuiRodriSil&theme=react-dark&hide_border=true&custom_title=My%20Tetris%20Commits)
+
+
+---
 
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:rodriguesgui560@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/guilherme-silva-56b7342b1)  
+

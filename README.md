@@ -30,13 +30,16 @@ Hi! I'm **Güilherme Silva**, a passionate full-stack developer focused on **tec
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30px">
 </div>
 
-## 🧐 My Stats
+## 🤓 My Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiRodriSil&theme=github_light&show_icons=true)](https://github.com/GuiRodriSil)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiRodriSil&theme=github_dark&show_icons=true)](https://github.com/GuiRodriSil)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRodriSil&layout=compact&langs_count=8&theme=github_light)](https://github.com/GuiRodriSil)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRodriSil&layout=compact&langs_count=8&theme=github_dark)](https://github.com/GuiRodriSil)
+[![GitHub Stats - Light](https://github-readme-stats.vercel.app/api?username=GuiRodriSil&theme=github_light&show_icons=true&count_private=true)](https://github.com/GuiRodriSil)
+[![GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=GuiRodriSil&theme=github_dark&show_icons=true&count_private=true)](https://github.com/GuiRodriSil)
+
+[![Top Languages - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRodriSil&layout=compact&langs_count=8&theme=github_light)](https://github.com/GuiRodriSil)
+[![Top Languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRodriSil&layout=compact&langs_count=8&theme=github_dark)](https://github.com/GuiRodriSil)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuiRodriSil&theme=dark)
+
 
 ## 📫 How to reach me? 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:rodriguesgui560@gmail.com)

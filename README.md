@@ -41,13 +41,9 @@ Main areas:
 
 ## Experience
 
-<sub>
-
-- **LACEN (Backend Developer):** Java/Spring Boot microservice for sample management, using MySQL, JWT, DDD, Clean Architecture, and REST APIs.
-- **JetSales (Fullstack Developer):** Development and integration of CRM solutions using React, Node.js, REST APIs, Axios, and external service integrations.
-- **Ágape (Fullstack Developer):** Data dashboard using Vite on the frontend and Java/Spring Boot on the backend, integrating PostgreSQL data through REST APIs.
-
-</sub>
+- <sub>**LACEN (Backend Developer):** Java/Spring Boot microservice for sample management, using MySQL, JWT, DDD, Clean Architecture, and REST APIs.</sub>
+- <sub>**JetSales (Fullstack Developer):** Development and integration of CRM solutions using React, Node.js, REST APIs, Axios, and external service integrations.</sub>
+- <sub>**Ágape (Fullstack Developer):** Data dashboard using Vite on the frontend and Java/Spring Boot on the backend, integrating PostgreSQL data through REST APIs.</sub>
 
 ---
 

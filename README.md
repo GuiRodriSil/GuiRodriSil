@@ -23,9 +23,9 @@ Main areas:
 
 ## Tech Stack
 
-**Front-End** · HTML · CSS · JavaScript · React · Bootstrap · Next.js
+**Back-End** · Spring · Java · Python (Django & FastAPI) · NestJS · TypeScript
 
-**Back-End** · Java · Spring · Node.js
+**Front-End** · React · Vite · Vue.js
 
 **Architecture** · Microservices · CQRS · DDD · Clean Architecture · SOLID · Clean Code
 
